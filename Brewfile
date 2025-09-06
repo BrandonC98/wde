@@ -2,4 +2,6 @@ brew git
 brew docker
 cask devpod
 cask visual-studio-code
-go-task
+brew gh
+brew node
+brew devcontainer
