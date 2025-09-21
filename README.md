@@ -53,3 +53,9 @@ Access the devcontainer
 ssh example-repo.devpod
 ```
 
+## Global DevPod Settings
+
+Set the dotfiles to use for all workspaces
+```bash
+devpod context set-options -o DOTFILES_URL=git@github.com:BrandonC98/ede-dot-files.git
+```

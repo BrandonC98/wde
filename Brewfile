@@ -5,3 +5,4 @@ cask visual-studio-code
 brew gh
 brew node
 brew devcontainer
+brew neovim
